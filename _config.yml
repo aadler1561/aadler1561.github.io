@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Aviv Adler"
   avatar           : "profile_image_aviv.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Testing <b>markdown</b> to see if it works in this field"
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   pubmed           : 
