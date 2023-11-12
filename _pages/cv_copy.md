@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CHECKING THE CV COPY
+
 Education
 ======
 * B.S. in TESTING, GitHub University, 2012
