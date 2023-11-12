@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications TESTING EDITS"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-Hello I am testing how this works.
+Is this still the right file
 
 
 {% if author.googlescholar %}
