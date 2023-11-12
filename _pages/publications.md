@@ -15,5 +15,5 @@ Is this still the right file
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include category-list.html %}
 {% endfor %}
