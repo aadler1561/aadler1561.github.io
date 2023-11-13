@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Probability (6.436J)"
+title: "Fundamentals of Probability"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/f2018-probability

@@ -83,18 +83,36 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
   * <b>Best Student Paper Award</b> winner
 
 * [Push-MOG: Efficient Pushing to Consolidate Polygonal Objects for Multi-Object Grasping](https://aadler1561.github.io/files/automation/push_mog.pdf)
-  * <b>Joint work with:</b> Shrey Aeron, Edith Llontop, Aviv Adler, Wisdom C. Agboh, Mehmet Dogar, Ken Goldberg
+  * <b>Joint work with:</b> Shrey Aeron, Edith Llontop, Wisdom C. Agboh, Mehmet Dogar, Ken Goldberg
   * <i>IEEE 19th International Conference on Automation Science and Engineering</i> (CASE 2023), Auckland, New Zealand, 2023.
 
 * [An Efficient Proximity Probing Algorithm for Metrology](https://aadler1561.github.io/files/automation/proximity_probing.pdf)
-  * <b>Joint work with:</b> Fatemeh Panahi, Aviv Adler, A. Frank van der Stappen, Ken Goldberg
+  * <b>Joint work with:</b> Fatemeh Panahi, A. Frank van der Stappen, Ken Goldberg
   * <i>IEEE 9th International Conference on Automation Science and Engineering</i> (CASE 2013), Madison, WI, USA, 2013.
   * [Journal version](https://aadler1561.github.io/files/automation/proximity_probing_journal.pdf): <i>IEEE Transactions on Automation Science and Engineering</i> (T-ASE), vol. 12, no. 1, pp. 84-95, Jan. 2015
 
 * [Pose Statistics for Eccentric Parts](https://aadler1561.github.io/files/automation/pose_statistics.pdf)
-  * <b>Joint work with:</b> Fatemeh Panahi, Aviv Adler, A. Frank van der Stappen
+  * <b>Joint work with:</b> Fatemeh Panahi, A. Frank van der Stappen
   * <i>IEEE 11th International Conference on Automation Science and Engineering</i> (CASE 2015), Gothenburg, Sweden, 2015.
 
 
 ## Information Theory and Social Dynamics on Networks<a id="information_networks"> </a>
 
+* [Efficient Representation of Large-Alphabet Probability Distributions via Arcsinh-Compander](https://aadler1561.github.io/files/information_networks/compander.pdf)
+  * <b>Joint work with:</b> Jennifer Tang, Yury Polyanskiy
+  * <i>IEEE International Symposium on Information Theory</i> (ISIT 2022), Espoo, Finland, 2022, pp. 162-167
+  * [Journal version](https://aadler1561.github.io/files/information_networks/compander_journal.pdf): <i>IEEE Journal on Selected Areas in Information Theory</i> (special issue on Modern Compression), vol. 3, no. 4, pp. 651-663, Dec. 2022
+
+* [Quantization of Random Distributions under KL Divergence](https://aadler1561.github.io/files/information_networks/quantization_kl_divergence.pdf)
+  * <b>Joint work with:</b> Jennifer Tang, Yury Polyanskiy
+  * <i>IEEE International Symposium on Information Theory</i> (ISIT 2021), Melbourne, Australia, 2021, pp. 2762-2767
+
+* [Estimating True Beliefs from Declared Opinions](https://aadler1561.github.io/files/information_networks/true_belief_estimation.pdf)
+  * <b>Joint work with:</b> Jennifer Tang, Amir Ajorlou, Ali Jadbabaie
+  * Under review at <i>2024 American Control Conference</i> (ACC 2024)
+  * [Journal version](https://aadler1561.github.io/files/information_networks/true_belief_estimation_journal.pdf) under review at Transaction on Automatic Control (TAC)
+
+* [Estimating True Beliefs from Declared Opinions](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks.pdf)
+  * <b>Joint work with:</b> Jennifer Tang, Amir Ajorlou, Ali Jadbabaie
+  * To appear at <i>62nd IEEE Conference on Decision and Control</i> (CDC 2023), Singapore, 2023
+  * [Journal version](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks_journal.pdf) under review at Transaction on Automatic Control (TAC)
