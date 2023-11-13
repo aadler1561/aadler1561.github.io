@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/f2018-probability
 venue: "Massachusetts Institute of Technology, EECS"
-date: "Fall 2018"
+date: 2018-09-01
 ---
 
 Served as a Teaching Assistant for Fundamentals of Probability (6.436J, Fall 2018):
