@@ -10,9 +10,10 @@ redirect_from:
 This is a list of all my published work to date (plus preprints), organized into the following general categories:
 * <a href="#multi_agent_algorithms">Multi-Agent Algorithms</a>
 * <a href="#complexity_of_games">Complexity of Games</a>
+* <a href="#automation_algorithms">Automation Algorithms</a>
 
 
-## <a id="multi_agent_algorithms">Multi-Agent Algorithms</a>
+## Multi-Agent Algorithms<a id="multi_agent_algorithms"> </a>
 
 * [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/multi_agent_coordination/heterogeneity.pdf)
   * <b>Joint work with:</b> Oscar Mickelin, Ramesh Ramachandran, Sertac Karaman, Gaurav Sukhatme
@@ -27,7 +28,7 @@ This is a list of all my published work to date (plus preprints), organized into
   * [WAFR 2016 talk](https://www.youtube.com/watch?v=OI67KTwkB54)
 
 
-## <a id="complexity_of_games">Complexity of Games and Puzzles</a>
+## Complexity of Games and Puzzles<a id="complexity_of_games"> </a>
 
 * [Clickomania is Hard, Even with Two Colors and Two Columns](https://aadler1561.github.io/files/complexity_games/clickomania.pdf)
   * <b>Joint work with:</b> Erik Demaine, Adam Hesterberg, Quanquan Liu, Mikhail Rudoy
@@ -50,7 +51,7 @@ This is a list of all my published work to date (plus preprints), organized into
   * <i>Abstracts from the Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCGGG 2022)</i>, Tokyo, Japan, September 9–11, 2022, pages 134–135.
 
 
-## Automation Algorithms
+## Automation Algorithms<a id="automation_algorithms"> </a>
 
 
 
