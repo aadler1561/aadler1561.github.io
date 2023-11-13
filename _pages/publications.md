@@ -22,6 +22,7 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
   * <b>Joint work with:</b> Sertac Karaman, Oren Gal
   * Under revision for <i>Applied Probability Journals</i>
   * [arXiv version](https://arxiv.org/abs/2302.00243)
+  * [ICRA 2016 version](https://aadler1561.github.io/files/mp_ma_algs/dynamic_tsp_icra.pdf): partial results presented at ICRA 2016
   * [My Ph.D. thesis](https://dspace.mit.edu/bitstream/handle/1721.1/150313/Adler-adlera-PhD-EECS-2023-thesis.pdf?sequence=1)
 
 * [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/mp_ma_algs/heterogeneity.pdf)
