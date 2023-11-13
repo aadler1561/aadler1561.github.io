@@ -9,198 +9,39 @@ redirect_from:
 
 ## Multi-Agent Algorithms and Coordination
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/multi_agent_coordination/heterogeneity.pdf)
+  * <b>Joint work with:</b> Oscar Mickelin, Ramesh Ramachandran, Sertac Karaman, Gaurav Sukhatme
+  * <i>International Workshop on the Algorithmic Foundations of Robotics XV</i> (WAFR 2022), 2022, pages 115–131, Springer.
+  * [arXiv version](https://arxiv.org/abs/2202.10433) with added results for homogeneous defenders
+  * [WAFR 2022 talk](https://www.youtube.com/watch?v=ZNBNyxomC6A&t=3172s)
+
+
+* [Optimal Policies for Platooning and Ride Sharing in Autonomy-Enabled Transportation](https://aadler1561.github.io/files/multi_agent_coordination/platooning.pdf)
+  * <b>Joint work with:</b> David Miculescu, Sertac Karaman
+  * <i>International Workshop on the Algorithmic Foundations of Robotics XII</i> (WAFR 2016), 2020, pages 848-863, Springer.
+  * [arXiv version](https://arxiv.org/abs/2202.10433) with added results for homogeneous defenders
+  * [WAFR 2016 talk](https://www.youtube.com/watch?v=OI67KTwkB54)
+
 
 ## Complexity of Games and Puzzles
 
 * [Clickomania is Hard, Even with Two Colors and Two Columns](https://aadler1561.github.io/files/complexity_games/clickomania.pdf)
-  * <b>Authors:</b> Aviv Adler, Erik Demaine, Adam Hesterberg, Mikhail Rudoy
-  * Published at INSERT HERE
-  *
+  * <b>Joint work with:</b> Erik Demaine, Adam Hesterberg, Quanquan Liu, Mikhail Rudoy
+  * <i> The Mathematics of Various Entertaining Subjects</i> (MOVES 2015), volume 2, 2017, pages 325–363, Princeton University Press.
 
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* [Tatamibari is NP-Complete](https://aadler1561.github.io/files/complexity_games/tatamibari.pdf)
+  * <b>Joint work with:</b> Jeffrey Bosboom, Erik Demaine, Martin Demaine, Quanquan Liu, Jayson Lynch
+  * <i>Proceedings of the 10th International Conference on Fun with Algorithms</i> (FUN 2020), La Maddalena, Italy, September 28–30, 2020, 1:1–1:24.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+* [Computational complexity of numberless Shakashaka](https://aadler1561.github.io/files/complexity_games/shakashaka.pdf)
+  * <b>Joint work with:</b> Michael Biro, Erik Demaine, Mikhail Rudoy, Christiane Schmidt
+  * <i>IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences</i>, volume E97-A, number 6, 2014, pages 1213–1219.
 
-## Markdown guide
+* [The Complexity of Hex and the Jordan Curve Theorem](https://aadler1561.github.io/files/complexity_games/hex.pdf)
+  * <b>Joint work with:</b> Constantinos Daskalakis, Erik Demaine
+  * <i>Proceedings of the 43rd International Colloquium on Automata, Languages and Programming</i> (ICALP 2016), Rome, Italy, July 12–15, 2016, 24:1–24:14.
 
-### Header three
+* [This Game is not Going to Analyze Itslef](https://aadler1561.github.io/files/complexity_games/this_game_is_not_going_to_analyze_itself.pdf)
+  * <b>Joint work with:</b> Joshua Ani, Lily Chung, Michael Coulombe, Erik Demaine, Yevhenii Diomidov, Quanquan Liu
+  * <i>Abstracts from the Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCGGG 2022)</i>, Tokyo, Japan, September 9–11, 2022, pages 134–135.
 
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
