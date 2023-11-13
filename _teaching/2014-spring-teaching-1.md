@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamentals of Probability (6.436J)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/f2018-probability
+venue: "Massachusetts Institute of Technology, EECS"
+date: "Fall 2018"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a Teaching Assistant for Fundamentals of Probability (6.436J, Fall 2018):
+* Developed and gave recitations
+* Held office hours
+* Helped write, give, and grade homework and exams
+* Answered student questions on Piazza
 
-Heading 1
-======
+Course materials available on [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/)
 
-Heading 2
-======
-
-Heading 3
-======
