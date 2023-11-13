@@ -7,7 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
-## Multi-Agent Algorithms and Coordination
+This is a list of all my published work to date (plus preprints), organized into the following general categories:
+* <a href="#multi_agent_algorithms">Multi-Agent Algorithms</a>
+* <a href="#complexity_of_games">Complexity of Games</a>
+
+
+## <a id="multi_agent_algorithms">Multi-Agent Algorithms</a>
 
 * [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/multi_agent_coordination/heterogeneity.pdf)
   * <b>Joint work with:</b> Oscar Mickelin, Ramesh Ramachandran, Sertac Karaman, Gaurav Sukhatme
@@ -19,11 +24,10 @@ redirect_from:
 * [Optimal Policies for Platooning and Ride Sharing in Autonomy-Enabled Transportation](https://aadler1561.github.io/files/multi_agent_coordination/platooning.pdf)
   * <b>Joint work with:</b> David Miculescu, Sertac Karaman
   * <i>International Workshop on the Algorithmic Foundations of Robotics XII</i> (WAFR 2016), 2020, pages 848-863, Springer.
-  * [arXiv version](https://arxiv.org/abs/2202.10433) with added results for homogeneous defenders
   * [WAFR 2016 talk](https://www.youtube.com/watch?v=OI67KTwkB54)
 
 
-## Complexity of Games and Puzzles
+## <a id="complexity_of_games">Complexity of Games and Puzzles</a>
 
 * [Clickomania is Hard, Even with Two Colors and Two Columns](https://aadler1561.github.io/files/complexity_games/clickomania.pdf)
   * <b>Joint work with:</b> Erik Demaine, Adam Hesterberg, Quanquan Liu, Mikhail Rudoy
@@ -41,7 +45,12 @@ redirect_from:
   * <b>Joint work with:</b> Constantinos Daskalakis, Erik Demaine
   * <i>Proceedings of the 43rd International Colloquium on Automata, Languages and Programming</i> (ICALP 2016), Rome, Italy, July 12–15, 2016, 24:1–24:14.
 
-* [This Game is not Going to Analyze Itslef](https://aadler1561.github.io/files/complexity_games/this_game_is_not_going_to_analyze_itself.pdf)
+* [This Game is not Going to Analyze Itself](https://aadler1561.github.io/files/complexity_games/this_game_is_not_going_to_analyze_itself.pdf)
   * <b>Joint work with:</b> Joshua Ani, Lily Chung, Michael Coulombe, Erik Demaine, Yevhenii Diomidov, Quanquan Liu
   * <i>Abstracts from the Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCGGG 2022)</i>, Tokyo, Japan, September 9–11, 2022, pages 134–135.
+
+
+## Automation Algorithms
+
+
 
