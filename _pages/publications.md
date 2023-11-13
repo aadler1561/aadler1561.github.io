@@ -8,21 +8,30 @@ redirect_from:
 ---
 
 This is a list of all my published work to date (plus preprints), organized into the following general categories:
-* <a href="#multi_agent_algorithms">Multi-Agent Algorithms</a>
+* <a href="#mp_ma_algs">Motion Planning and Multi-Agent Algorithms</a>
 * <a href="#complexity_of_games">Complexity of Games</a>
 * <a href="#automation_algorithms">Automation Algorithms</a>
+* <a href="#information_networks">Information Theory and Social Dynamics on Networks</a>
+
+A list of my work is also available on [Google Scholar](https://scholar.google.nl/citations?user=_fFmB3oAAAAJ&hl=en).
 
 
-## Multi-Agent Algorithms<a id="multi_agent_algorithms"> </a>
+## Motion Planning and Multi-Agent Algorithms<a id="mp_ma_algs"> </a>
 
-* [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/multi_agent/heterogeneity.pdf)
+* [Agility and Target Distribution in the Dynamic Stochastic Traveling Salesman Problem](https://aadler1561.github.io/files/mp_ma_algs/dynamic_tsp.pdf)
+  * <b>Joint work with:</b> Sertac Karaman, Oren Gal
+  * Under revision for <i>Applied Probability Journals</i>
+  * [arXiv version](https://arxiv.org/abs/2302.00243)
+  * [My Ph.D. thesis](https://dspace.mit.edu/bitstream/handle/1721.1/150313/Adler-adlera-PhD-EECS-2023-thesis.pdf?sequence=1)
+
+* [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/mp_ma_algs/heterogeneity.pdf)
   * <b>Joint work with:</b> Oscar Mickelin, Ramesh Ramachandran, Sertac Karaman, Gaurav Sukhatme
   * <i>International Workshop on the Algorithmic Foundations of Robotics XV</i> (WAFR 2022), 2022, pages 115–131, Springer.
   * [arXiv version](https://arxiv.org/abs/2202.10433) with added results for homogeneous defenders
   * [WAFR 2022 talk](https://www.youtube.com/watch?v=ZNBNyxomC6A&t=3172s)
 
 
-* [Optimal Policies for Platooning and Ride Sharing in Autonomy-Enabled Transportation](https://aadler1561.github.io/files/multi_agent/platooning.pdf)
+* [Optimal Policies for Platooning and Ride Sharing in Autonomy-Enabled Transportation](https://aadler1561.github.io/files/mp_ma_algs/platooning.pdf)
   * <b>Joint work with:</b> David Miculescu, Sertac Karaman
   * <i>International Workshop on the Algorithmic Foundations of Robotics XII</i> (WAFR 2016), 2020, pages 848-863, Springer.
   * [WAFR 2016 talk](https://www.youtube.com/watch?v=OI67KTwkB54)
@@ -73,4 +82,5 @@ This is a list of all my published work to date (plus preprints), organized into
   * <i>IEEE 19th International Conference on Automation Science and Engineering</i> (CASE 2023), Auckland, New Zealand, 2023.
 
 
+## Information Theory and Social Dynamics on Networks<a id="information_networks"> </a>
 
