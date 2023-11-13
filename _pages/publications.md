@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Multi-Agent Algorithms and Coordination
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -22,9 +22,13 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+## Complexity of Games and Puzzles
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+* [Clickomania is Hard, Even with Two Colors and Two Columns](https://aadler1561.github.io/files/complexity_games/clickomania.pdf)
+  * <b>Authors:</b> Aviv Adler, Erik Demaine, Adam Hesterberg, Mikhail Rudoy
+  * Published at INSERT HERE
+  *
+
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
