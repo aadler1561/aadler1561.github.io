@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Machine Learning"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/f2022-machine-learning
+venue: "MIT EECS"
+date: 2022-09-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

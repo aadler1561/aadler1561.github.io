@@ -3,7 +3,7 @@ title: "Fundamentals of Probability (6.436J)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/f2018-probability
-venue: "Massachusetts Institute of Technology, EECS"
+venue: "MIT, EECS"
 date: 2018-09-01
 ---
 
