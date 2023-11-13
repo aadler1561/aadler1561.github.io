@@ -15,14 +15,14 @@ This is a list of all my published work to date (plus preprints), organized into
 
 ## Multi-Agent Algorithms<a id="multi_agent_algorithms"> </a>
 
-* [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/multi_agent_coordination/heterogeneity.pdf)
+* [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/multi_agent/heterogeneity.pdf)
   * <b>Joint work with:</b> Oscar Mickelin, Ramesh Ramachandran, Sertac Karaman, Gaurav Sukhatme
   * <i>International Workshop on the Algorithmic Foundations of Robotics XV</i> (WAFR 2022), 2022, pages 115–131, Springer.
   * [arXiv version](https://arxiv.org/abs/2202.10433) with added results for homogeneous defenders
   * [WAFR 2022 talk](https://www.youtube.com/watch?v=ZNBNyxomC6A&t=3172s)
 
 
-* [Optimal Policies for Platooning and Ride Sharing in Autonomy-Enabled Transportation](https://aadler1561.github.io/files/multi_agent_coordination/platooning.pdf)
+* [Optimal Policies for Platooning and Ride Sharing in Autonomy-Enabled Transportation](https://aadler1561.github.io/files/multi_agent/platooning.pdf)
   * <b>Joint work with:</b> David Miculescu, Sertac Karaman
   * <i>International Workshop on the Algorithmic Foundations of Robotics XII</i> (WAFR 2016), 2020, pages 848-863, Springer.
   * [WAFR 2016 talk](https://www.youtube.com/watch?v=OI67KTwkB54)
