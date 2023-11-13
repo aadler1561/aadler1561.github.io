@@ -50,8 +50,27 @@ This is a list of all my published work to date (plus preprints), organized into
   * <b>Joint work with:</b> Joshua Ani, Lily Chung, Michael Coulombe, Erik Demaine, Yevhenii Diomidov, Quanquan Liu
   * <i>Abstracts from the Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCGGG 2022)</i>, Tokyo, Japan, September 9–11, 2022, pages 134–135.
 
+* [Fundamental Transformations of Sudoku Grids](https://aadler1561.github.io/files/complexity_games/sudoku_grids.pdf)
+  * <b>Joint work with:</b> Ilan Adler
+  * <i>Mathematical Spectrum</i> volume 41 no. 1 (2008), pp. 1–7
+  * <b>Best Student Paper of the Year</b> winner
+
 
 ## Automation Algorithms<a id="automation_algorithms"> </a>
+
+* [The Teenager's Problem: Efficient Garment Decluttering With Grasp Optimization](https://aadler1561.github.io/files/automation/teenagers.pdf)
+  * <b>Joint work with:</b> Ayah Ahmad, Shengyin Wang, Wisdom C. Agboh, Edith Llontop, Tianshuang Qiu, Jeffrey Ichnowski, Mehmet Dogar, Thomas Kollar, Richard Cheng, Ken Goldberg
+  * Under review at <i>2024 IEEE International Conference on Robotics and Automation</i> (ICRA 2024)
+  * [arXiv version](https://arxiv.org/abs/2310.16951)
+
+* [Automating 2D Suture Placement](https://aadler1561.github.io/files/automation/suture_placement.pdf)
+  * <b>Joint work with:</b> Varun Kamat, Viraj Ramakrishnan, Yashish Mohnot, Harshika Jalan, Julia Isaac, Vincent Schorp, Yahav Avigal, Danyal M Fer, Ken Goldberg
+  * <i>IEEE 19th International Conference on Automation Science and Engineering</i> (CASE 2023), Auckland, New Zealand, 2023.
+  * <b>Best Student Paper Award</b> winner
+
+* [Push-MOG: Efficient Pushing to Consolidate Polygonal Objects for Multi-Object Grasping](https://aadler1561.github.io/files/automation/push_mog.pdf)
+  * <b>Joint work with:</b> Shrey Aeron, Edith Llontop, Aviv Adler, Wisdom C. Agboh, Mehmet Dogar, Ken Goldberg
+  * <i>IEEE 19th International Conference on Automation Science and Engineering</i> (CASE 2023), Auckland, New Zealand, 2023.
 
 
 
