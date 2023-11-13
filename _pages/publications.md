@@ -36,6 +36,10 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
   * <i>International Workshop on the Algorithmic Foundations of Robotics XII</i> (WAFR 2016), 2020, pages 848-863, Springer.
   * [WAFR 2016 talk](https://www.youtube.com/watch?v=OI67KTwkB54)
 
+* [Efficient Multi-robot Motion Planning for Unlabeled Discs in Simple Polygons](https://aadler1561.github.io/files/mp_ma_algs/unlabeled_mrmp.pdf)
+  * <b>Joint work with:</b> Mark de Berg, Dan Halperin, Kiril Solovey
+  * <i>International Workshop on the Algorithmic Foundations of Robotics XI</i> (WAFR 2014), 2015, pages 1-17, Springer.
+
 
 ## Complexity of Games and Puzzles<a id="complexity_of_games"> </a>
 
@@ -80,6 +84,15 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
 * [Push-MOG: Efficient Pushing to Consolidate Polygonal Objects for Multi-Object Grasping](https://aadler1561.github.io/files/automation/push_mog.pdf)
   * <b>Joint work with:</b> Shrey Aeron, Edith Llontop, Aviv Adler, Wisdom C. Agboh, Mehmet Dogar, Ken Goldberg
   * <i>IEEE 19th International Conference on Automation Science and Engineering</i> (CASE 2023), Auckland, New Zealand, 2023.
+
+* [An Efficient Proximity Probing Algorithm for Metrology](https://aadler1561.github.io/files/automation/proximity_probing.pdf)
+  * <b>Joint work with:</b> Fatemeh Panahi, Aviv Adler, A. Frank van der Stappen, Ken Goldberg
+  * <i>IEEE 9th International Conference on Automation Science and Engineering</i> (CASE 2013), Madison, WI, USA, 2013.
+  * [Journal version](https://aadler1561.github.io/files/automation/proximity_probing_journal.pdf): <i>IEEE Transactions on Automation Science and Engineering</i> (T-ASE), vol. 12, no. 1, pp. 84-95, Jan. 2015
+
+* [Pose Statistics for Eccentric Parts](https://aadler1561.github.io/files/automation/pose_statistics.pdf)
+  * <b>Joint work with:</b> Fatemeh Panahi, Aviv Adler, A. Frank van der Stappen
+  * <i>IEEE 11th International Conference on Automation Science and Engineering</i> (CASE 2015), Gothenburg, Sweden, 2015.
 
 
 ## Information Theory and Social Dynamics on Networks<a id="information_networks"> </a>
