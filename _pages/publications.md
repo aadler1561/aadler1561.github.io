@@ -113,7 +113,7 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
   * Under review at <i>2024 American Control Conference</i> (ACC 2024)
   * [Journal version](https://aadler1561.github.io/files/information_networks/true_belief_estimation_journal.pdf) under review at Transaction on Automatic Control (TAC)
 
-* [Stochastic Opinion Dynamics under Social Pressure in Arbitrary Networks](https://aadler1561.github.io/files/infonetwork/social_pressure_arbitrary_networks.pdf)
+* [Stochastic Opinion Dynamics under Social Pressure in Arbitrary Networks](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks.pdf)
   * <b>Joint work with:</b> Jennifer Tang, Amir Ajorlou, Ali Jadbabaie
   * To appear at <i>62nd IEEE Conference on Decision and Control</i> (CDC 2023), Singapore, 2023
-  * [Journal version](https://aadler1561.github.io/files/infonetwork/social_pressure_arbitrary_networks_journal.pdf) under review at Transaction on Automatic Control (TAC)
+  * [Journal version](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks_journal.pdf) under review at Transaction on Automatic Control (TAC)
