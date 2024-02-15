@@ -75,7 +75,6 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
 
 * [The Teenager's Problem: Efficient Garment Decluttering With Grasp Optimization](https://aadler1561.github.io/files/automation/teenagers.pdf)
   * <b>Joint work with:</b> Ayah Ahmad, Shengyin Wang, Wisdom C. Agboh, Edith Llontop, Tianshuang Qiu, Jeffrey Ichnowski, Mehmet Dogar, Thomas Kollar, Richard Cheng, Ken Goldberg
-  * Under review at <i>2024 IEEE International Conference on Robotics and Automation</i> (ICRA 2024)
   * [arXiv version](https://arxiv.org/abs/2310.16951)
 
 * [Automating 2D Suture Placement](https://aadler1561.github.io/files/automation/suture_placement.pdf)
@@ -110,10 +109,10 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
 
 * [Estimating True Beliefs from Declared Opinions](https://aadler1561.github.io/files/information_networks/true_belief_estimation.pdf)
   * <b>Joint work with:</b> Jennifer Tang, Amir Ajorlou, Ali Jadbabaie
-  * Under review at <i>2024 American Control Conference</i> (ACC 2024)
+  * To appear in: <i>2024 American Control Conference</i> (ACC 2024)
   * [Journal version](https://aadler1561.github.io/files/information_networks/true_belief_estimation_journal.pdf) under review at Transaction on Automatic Control (TAC)
 
 * [Stochastic Opinion Dynamics under Social Pressure in Arbitrary Networks](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks.pdf)
   * <b>Joint work with:</b> Jennifer Tang, Amir Ajorlou, Ali Jadbabaie
-  * To appear at <i>62nd IEEE Conference on Decision and Control</i> (CDC 2023), Singapore, 2023
+  * <i>62nd IEEE Conference on Decision and Control</i> (CDC 2023), Singapore, 2023
   * [Journal version](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks_journal.pdf) under review at Transaction on Automatic Control (TAC)
