@@ -27,7 +27,7 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
 
 * [The Role of Heterogeneity in Autonomous Perimeter Defense Problems](https://aadler1561.github.io/files/mp_ma_algs/heterogeneity.pdf)
   * <b>Joint work with:</b> Oscar Mickelin, Ramesh Ramachandran, Sertac Karaman, Gaurav Sukhatme
-  * <i>International Workshop on the Algorithmic Foundations of Robotics XV</i> (WAFR 2022), 2022, pages 115â€“131, Springer.
+  * <i>International Workshop on the Algorithmic Foundations of Robotics XV</i> (WAFR 2022), 2022, pages 115-€“131, Springer.
   * [arXiv version](https://arxiv.org/abs/2202.10433) with added results for homogeneous defenders; to appear in International Journal of Robotics Research (IJRR)
   * [WAFR 2022 talk](https://www.youtube.com/watch?v=ZNBNyxomC6A&t=3172s)
 
@@ -115,4 +115,4 @@ A list of my work is also available on [Google Scholar](https://scholar.google.n
 * [Stochastic Opinion Dynamics under Social Pressure in Arbitrary Networks](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks.pdf)
   * <b>Joint work with:</b> Jennifer Tang, Amir Ajorlou, Ali Jadbabaie
   * <i>62nd IEEE Conference on Decision and Control</i> (CDC 2023), Singapore, 2023
-  * [Journal version](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks_journal.pdf) under review at Transaction on Automatic Control (TAC)
+  * [Journal version](https://aadler1561.github.io/files/information_networks/social_pressure_arbitrary_networks_journal.pdf) under preparation

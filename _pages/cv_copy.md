@@ -9,4 +9,4 @@ redirect_from:
 
 My research statement can be found [here](http://aadler1561.github.io/files/research_statement.pdf)
 
-My CV can be found [here](http://aadler1561.github.io/files/cv_2024_02.pdf).
+My CV can be found [here](https://aadler1561.github.io/files/cv_2024_02.pdf).
